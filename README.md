@@ -2,7 +2,7 @@
 
 Name: Cristan Duane R. Monte
 Students ID: 23-1584-190
-Course/Section: Information Technology-WebTech/3H-A
+Course/Section: Information Technology-WebTech / 3H-A
 
 Web Server:
 Python HTTP Server
