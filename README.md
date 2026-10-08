@@ -35,7 +35,9 @@ School
 # TABLES
 
 -students
+
 -courses
+
 -enrollments
 
 # What I Learned
